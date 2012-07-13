@@ -10,9 +10,9 @@ If you're using Jekyll, add the only_first_p.rb file to your _plugins directory 
 
 ## Default output
 
-<p>
-{first paragraph content}
-</p><a class="readmore" href="{post-url}">Read more</a>
+    <p>
+    {first paragraph content}
+    </p><a class="readmore" href="{post-url}">Read more</a>
 
 ## Configuration
 
